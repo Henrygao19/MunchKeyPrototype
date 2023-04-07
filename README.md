@@ -10,7 +10,7 @@ Victoria Xu - Design Lead
 
 ## Programmers
 
-Colin Wu - Sexiest Programmer
+Colin Wu - Programmer
 
 Henry Gao - Programmer
 
