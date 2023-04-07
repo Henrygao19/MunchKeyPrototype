@@ -1,0 +1,152 @@
+{
+	"textures": {
+        "background": {
+            "file":      "images/sand-texture.png",
+            "minFilter": "linear",
+            "magFilter": "linear"
+        },
+      "background2": {
+        "file":      "images/sea.jpg",
+        "minFilter": "linear",
+        "magFilter": "linear"
+      },
+      "borderleft": {
+        "file":      "images/left-water.png",
+        "minFilter": "linear",
+        "magFilter": "linear"
+      },
+      "borderright": {
+        "file":      "images/right-water.png",
+        "minFilter": "linear",
+        "magFilter": "linear"
+      },
+      "bordertop": {
+        "file":      "images/top-water.png",
+        "minFilter": "linear",
+        "magFilter": "linear"
+      },
+      "borderbottom": {
+        "file":      "images/bottom-water.png",
+        "minFilter": "linear",
+        "magFilter": "linear"
+      },
+      "borderbl": {
+        "file":      "images/bl-water.png",
+        "minFilter": "linear",
+        "magFilter": "linear"
+      },
+      "borderbr": {
+        "file":      "images/br-water.png",
+        "minFilter": "linear",
+        "magFilter": "linear"
+      },
+      "bordertl": {
+        "file":      "images/tl-water.png",
+        "minFilter": "linear",
+        "magFilter": "linear"
+      },
+      "bordertr": {
+        "file":      "images/tr-water.png",
+        "minFilter": "linear",
+        "magFilter": "linear"
+      },
+        "gameOver": {
+          "file":      "images/gameOver.png",
+          "minFilter": "linear",
+          "magFilter": "linear"
+        },
+        "photon": {
+            "file":      "images/photon.png",
+            "minFilter": "linear",
+            "magFilter": "linear"
+        },
+        "ship": {
+          "file":      "images/ships.png",
+          "minFilter": "linear",
+          "magFilter": "linear"
+        },
+        "monkeySprite": {
+          "file":      "images/monkeySpin.png",
+          "minFilter": "linear",
+          "magFilter": "linear"
+        },
+        "target": {
+            "file":      "images/target.png",
+            "minFilter": "linear",
+            "magFilter": "linear"
+        },
+        "glove": {
+          "file":      "images/glove.png",
+          "minFilter": "linear",
+          "magFilter": "linear"
+        },
+        "heart": {
+          "file":      "images/heart.png",
+          "minFilter": "linear",
+          "magFilter": "linear"
+        },
+        "monkey": {
+          "file": "images/monkeke.png",
+          "minFilter": "linear",
+          "magFilter": "linear"
+        },
+      "skewer": {
+        "file": "images/skewer.png",
+        "minFilter": "linear",
+        "magFilter": "linear"
+      },
+      "apple": {
+        "file": "images/apple.png",
+        "minFilter": "linear",
+        "magFilter": "linear"
+      },
+      "strawberry": {
+        "file": "images/strawberry.png",
+        "minFilter": "linear",
+        "magFilter": "linear"
+      },
+      "orange": {
+        "file": "images/orange.png",
+        "minFilter": "linear",
+        "magFilter": "linear"
+      },
+      "appleSkewer": {
+        "file": "images/appleSkewer.png",
+        "minFilter": "linear",
+        "magFilter": "linear"
+      },
+      "strawberrySkewer": {
+        "file": "images/strawberrySkewer.png",
+        "minFilter": "linear",
+        "magFilter": "linear"
+      },
+      "orangeSkewer": {
+        "file": "images/orangeSkewer.png",
+        "minFilter": "linear",
+        "magFilter": "linear"
+      },
+      "emptySkewer": {
+        "file": "images/emptySkewer.png",
+        "minFilter": "linear",
+        "magFilter": "linear"
+      },
+      "progress": {
+        "file":      "images/progressbar.png",
+        "minFilter": "linear",
+        "magFilter": "linear",
+        "atlas":     {
+          "background" : [16,   0, 216, 30],
+          "backleft"   : [0,    0,  15, 30],
+          "backright"  : [384,  0, 400, 30],
+          "foreground" : [16,  40, 216, 70],
+          "foreleft"   : [0,   40,  16, 70],
+          "foreright"  : [384, 40, 400, 70]
+        }
+      }
+    },
+    "soundfx": {
+        "fusion":  "sounds/fusion.mp3",
+        "laser":   "sounds/laser.mp3",
+        "torpedo": "sounds/torpedo.mp3"
+    }
+}
