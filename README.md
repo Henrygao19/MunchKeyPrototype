@@ -27,4 +27,5 @@ Rachel Ho - QA Lead, Character Art
 ## Controls 
 
 WASD to move, Left click to attack, Right click to switch skewer, Left Shift to dash, F to punch
+
 Main code is in (private repo) https://github.com/CollinWoo/Bomb-Studios
